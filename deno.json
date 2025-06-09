@@ -1,0 +1,12 @@
+{
+  "tasks": {
+    "sample-1": "deno run -RE --allow-ffi src/sample-1.ts",
+    "sample-2": "deno run -RE --allow-ffi src/sample-2.ts",
+    "sample-3": "deno run -RE --allow-ffi src/sample-3.ts"
+  },
+  "imports": {
+    "@automerge/automerge": "npm:@automerge/automerge@2.2.9",
+    "@automerge/automerge-repo": "npm:@automerge/automerge-repo@2.0.1",
+    "@sys/std": "jsr:@sys/std@0.0.149"
+  }
+}

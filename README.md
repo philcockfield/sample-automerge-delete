@@ -15,12 +15,12 @@ See `deno.json` for automerge versions.
 ```bash
 curl -fsSL https://deno.land/install.sh | sh
 deno --version
-```
 
-↓  
-deno 2.3.5 (stable, release, aarch64-apple-darwin)  
-v8 13.7.152.6-rusty  
-typescript 5.8.3
+ ↓
+    deno 2.3.5 (stable, release, aarch64-apple-darwin)
+    v8 13.7.152.6-rusty
+    typescript 5.8.3
+```
 
 ## Sample-1
 

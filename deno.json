@@ -6,7 +6,6 @@
   },
   "imports": {
     "@automerge/automerge": "npm:@automerge/automerge@2.2.9",
-    "@automerge/automerge-repo": "npm:@automerge/automerge-repo@2.0.1",
-    "@sys/std": "jsr:@sys/std@0.0.149"
+    "@automerge/automerge-repo": "npm:@automerge/automerge-repo@2.0.1"
   }
 }

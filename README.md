@@ -8,6 +8,8 @@ deno task sample-2
 deno task sample-3
 ```
 
+See `deno.json` for automerge versions.
+
 ### Runtime: Deno
 
 ```bash
